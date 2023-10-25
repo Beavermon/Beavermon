@@ -15,6 +15,6 @@ Hello 👋 I'm Beavermon, a Canadian programmer (partly a Minecraft Builder). He
 | Platform | Tag | Link |
 |-------|-------------|------|
 | YouTube | Beavermon | [YouTube](https://www.youtube.com/@beavermon/videos) | 
-| Spotify | ClydeplayzYT590 | [Spotify](https://open.spotify.com/user/6kv8sgjqq9qlis6j1gdtfc7hf)
+| Spotify | Beavermon | [Spotify](https://open.spotify.com/user/6kv8sgjqq9qlis6j1gdtfc7hf)
 ****
 <!--
