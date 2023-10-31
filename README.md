@@ -10,8 +10,8 @@ Hello there, 👋 I'm Beavermon. Heres my [website](https://www.youtube.com/watc
 
 ![](https://komarev.com/ghpvc/?username=Beqavermon&color=blue)
 ---
-![ClydeNoIQ's github stats](https://github-readme-stats.vercel.app/api/?username=Beavermon&show_icons=true&hide_border=true&theme=algolia&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beavermon&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/ClydeplayzYT590)
+![Beavermons's github stats](https://github-readme-stats.vercel.app/api/?username=Beavermon&show_icons=true&hide_border=true&theme=algolia&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Beavermon&show_icons=true&hide_border=true&theme=algolia&count_private=true)](https://github.com/Beavermon)
 
 ### 📞 Contact
 | Platform | Tag | Link |
