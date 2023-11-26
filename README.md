@@ -12,5 +12,8 @@ Hello there! 👋 I'm Beavermon. Heres my [website](https://www.youtube.com/watc
 | YouTube | Beavermon | [YouTube](https://www.youtube.com/@beavermon/videos) | 
 | Spotify | Beavermon | [Spotify](https://open.spotify.com/user/6kv8sgjqq9qlis6j1gdtfc7hf)
 | NameMC | Beavermon | [NameMC](https://namemc.com/profile/BeaverMon.1)
+
+#### discord soon ^
+
 ****
 <!-- 
