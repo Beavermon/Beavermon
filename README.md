@@ -6,7 +6,7 @@ Hello there! 👋 I'm Beavermon. Heres my [website](https://www.youtube.com/watc
 <img src="https://myreadme.vercel.app/api/embed/Beavermon?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <br>
 
-### 📞 Contact
+### 📞 Socials
 | Platform | Tag | Link |
 |-------|-------------|------|
 | YouTube | Beavermon | [YouTube](https://www.youtube.com/@beavermon/videos) | 
