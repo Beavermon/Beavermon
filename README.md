@@ -2,7 +2,7 @@
 Hello there! 👋 I'm Beavermon. Heres my [website](https://www.youtube.com/watch?v=xvFZjo5PgG0)
 <br>
 ![](https://komarev.com/ghpvc/?username=Beqavermon&color=blue)
----
+-----
 <img src="https://myreadme.vercel.app/api/embed/Beavermon?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 <br>
 
