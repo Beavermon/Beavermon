@@ -13,7 +13,5 @@ Hello there! 👋 I'm Beavermon. Heres my [website](https://www.youtube.com/watc
 | Spotify | Beavermon | [Spotify](https://open.spotify.com/user/6kv8sgjqq9qlis6j1gdtfc7hf)
 | NameMC | Beavermon | [NameMC](https://namemc.com/profile/BeaverMon.1)
 
-[![forthebadge](https://forthebadge.com/images/featured/featured-made-with-crayons.svg)](https://forthebadge.com)
-
 ****
 <!-- 
