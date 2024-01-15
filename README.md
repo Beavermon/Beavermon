@@ -7,7 +7,7 @@ beavermon
     <img src="https://komarev.com/ghpvc/?username=Beavermon&style=for-the-badge&color=red" alt="Profile Views">
     <br>
     <br>
-    <img src="https://lanyard.cnrad.dev/api/581687198760435742?borderRadius=5px&animated=:true" />
+    <img src="[![Discord Presence](https://lanyard.cnrad.dev/api/581687198760435742)](https://discord.com/users/581687198760435742)" />
   <br>
   <br>
   </p>
