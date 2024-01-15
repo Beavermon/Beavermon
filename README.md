@@ -1,17 +1,20 @@
-# Beavermon
-Hello there! 👋 I'm Beavermon. Heres my [website](https://www.youtube.com/watch?v=xvFZjo5PgG0)
+<p align="center">Programmer that can't pick a language.
 <br>
-![](https://komarev.com/ghpvc/?username=Beqavermon&color=blue)
------
-<img src="https://myreadme.vercel.app/api/embed/Beavermon?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+beavermon
 <br>
- 
-### 📞 Socials
-| Platform | Tag | Link |
-|-------|-------------|------|
-| YouTube | Beavermon | [YouTube](https://www.youtube.com/@beavermon/videos) | 
-| Spotify | Beavermon | [Spotify](https://open.spotify.com/user/6kv8sgjqq9qlis6j1gdtfc7hf)
-| NameMC | Beavermon | [NameMC](https://namemc.com/profile/BeaverMon.1)
-
-****
-<!-- 
+15
+ <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=beavermon&style=for-the-badge&color=red" alt="Profile Views">
+    <br>
+    <br>
+    <img src="https://lanyard.cnrad.dev/api/581687198760435742?borderRadius=5px&animated=:true" />
+  <br>
+  <br>
+  </p>
+  <hr>
+<p align="center">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Beavermon&theme=dark&hide_border=true&include_all_commits=true&count_private=false">
+  <br>
+  <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Beavermon&theme=dark&hide_border=true">
+  <br>
+</a>
