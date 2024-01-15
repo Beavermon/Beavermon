@@ -4,7 +4,7 @@ beavermon
 <br>
 15
  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=beavermon&style=for-the-badge&color=red" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=Beavermon&style=for-the-badge&color=red" alt="Profile Views">
     <br>
     <br>
     <img src="https://lanyard.cnrad.dev/api/581687198760435742?borderRadius=5px&animated=:true" />
