@@ -5,10 +5,6 @@ beavermon.
 15
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Beavermon&style=for-the-badge&color=red" alt="Profile Views">
-    <br>
-    <br>
-  <br>
-  <br>
   </p>
   <hr>
 <p align="center">
