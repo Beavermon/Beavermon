@@ -4,7 +4,7 @@ beavermon.
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Beavermon&style=for-the-badge&color=red" alt="Profile Views">
   </p>
-  does this shit work
+ dont really use this much, i know a bit of python, html and css
   <hr>
 <p align="center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Beavermon&theme=dark&hide_border=true&include_all_commits=true&count_private=false">
