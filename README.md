@@ -1,7 +1,6 @@
 <br>
 beavermon, 
-I know some html, css and python. I really only use this as somewhere to host sites and share them. 
-not much of a coding guy
+I know some html, css and python. I really only use this as somewhere to host sites and share them
 <br> 
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Beavermon&style=for-the-badge&color=red" alt="Profile Views">
