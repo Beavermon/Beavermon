@@ -1,6 +1,3 @@
-<br>
-beavermon, 
-I know some html, css and python. I really only use this as somewhere to host sites and share them
 <br> 
  <p align="center">
     <img src="https://komarev.com/ghpvc/?username=Beavermon&style=for-the-badge&color=red" alt="Profile Views">
@@ -11,4 +8,3 @@ I know some html, css and python. I really only use this as somewhere to host si
   <img src = "https://github-readme-streak-stats.herokuapp.com/?user=Beavermon&theme=dark&hide_border=true">
   <br>
 </a>
-12688
